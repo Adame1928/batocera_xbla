@@ -1,4 +1,4 @@
-# XBLA-Automation 1.3
+# XBLA-Automation 1.3 .zip version
 
 ## Purpose:
 ### The purpose of this script is to extract, move, and organize all of your XBLA game archives for easy integration into EmulationStation in Batocera Linux
